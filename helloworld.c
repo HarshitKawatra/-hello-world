@@ -2,5 +2,5 @@
 
 int main()
 {
-  cout<<"|||Hello world|||";
+  printf("|||Hello world|||");
 }
